@@ -7,7 +7,7 @@
     <description>machine learning</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 16 Aug 2020 14:04:21 -0700</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>machine learning</title>
       <link>/tag/machine-learning/</link>
     </image>
@@ -35,7 +35,9 @@ To summarize what we have discussed so far on the first post, you can look at th
       <link>/post/intro-to-ml/</link>
       <pubDate>Sun, 16 Aug 2020 13:50:29 -0700</pubDate>
       <guid>/post/intro-to-ml/</guid>
-      <description>&lt;p&gt;This is the overview of basic and important machine learning models, methods and concepts and theories. I acknowledge all information and knowledge including images, data… I have taken from those two courses: &lt;a href=&#34;https://www.coursera.org/learn/machine-learning&#34;&gt;https://www.coursera.org/learn/machine-learning&lt;/a&gt; and &lt;a href=&#34;http://classes.engr.oregonstate.edu/eecs/fall2015/cs534/&#34;&gt;http://classes.engr.oregonstate.edu/eecs/fall2015/cs534/&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;This is the overview of basic and important machine learning models, methods and concepts and theories. I acknowledge all information and knowledge including images, data… I have taken from those two courses: 
+&lt;a href=&#34;https://www.coursera.org/learn/machine-learning&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.coursera.org/learn/machine-learning&lt;/a&gt; and 
+&lt;a href=&#34;http://classes.engr.oregonstate.edu/eecs/fall2015/cs534/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://classes.engr.oregonstate.edu/eecs/fall2015/cs534/&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Our series comprise of following topics:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Section 1: Introduction, Linear regression, Generative and Discriminative Model, Perceptron, Logistic Regression, Naive Bayes and Gaussian Discriminant Analysis&lt;/li&gt;

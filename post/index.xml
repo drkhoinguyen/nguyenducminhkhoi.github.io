@@ -7,7 +7,7 @@
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 21 Nov 2021 18:25:31 -0800</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
@@ -27,7 +27,8 @@
 &lt;li&gt;(6) Attitude after graduation&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;It is specially written for Vietnamese student, but you can use Google Translate for your convinence.&lt;/p&gt;
-&lt;p&gt;You can find it here: &lt;a href=&#34;https://docs.google.com/document/d/1EZwDxa4_201rejxHU5GHG_x1YTnU7z1ztD7FVy3RrKk/edit?usp=sharing&#34;&gt;https://docs.google.com/document/d/1EZwDxa4_201rejxHU5GHG_x1YTnU7z1ztD7FVy3RrKk/edit?usp=sharing&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can find it here: 
+&lt;a href=&#34;https://docs.google.com/document/d/1EZwDxa4_201rejxHU5GHG_x1YTnU7z1ztD7FVy3RrKk/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://docs.google.com/document/d/1EZwDxa4_201rejxHU5GHG_x1YTnU7z1ztD7FVy3RrKk/edit?usp=sharing&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -87,8 +88,8 @@ To summarize what we have discussed so far on the first post, you can look at th
 &lt;p&gt;You can find the ranking of top venues in specific areas ranked by their h5-index. Notice the link: 
 &lt;a href=&#34;https://scholar.google.com/citations?view_op=top_venues&amp;amp;hl=en&amp;amp;vq=eng_computervisionpatternrecognition&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://scholar.google.com/citations?view_op=&lt;strong&gt;top_venues&lt;/strong&gt;&amp;amp;hl=en&amp;amp;vq=eng_computervisionpatternrecognition&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://cdn-images-1.medium.com/max/4452/1*6ZsfA5BuDcPaTPqIPtaq2g.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;You can also search for &lt;strong&gt;top authors** in specific field by using the link &lt;/strong&gt;search_authors**&amp;amp;hl=en&amp;amp;mauthors=**label:computer_vision
-&lt;a href=&#34;https://scholar.google.com/citations?view_op=search_authors&amp;amp;hl=en&amp;amp;mauthors=label:computer_vision&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://scholar.google.com/citations?view_op=&lt;/a&gt;**&lt;/p&gt;
+&lt;p&gt;You can also search for &lt;strong&gt;top authors&lt;/strong&gt; in specific field by using the link 
+&lt;a href=&#34;https://scholar.google.com/citations?view_op=search_authors&amp;amp;hl=en&amp;amp;mauthors=label:computer_vision&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://scholar.google.com/citations?view_op=&lt;strong&gt;search_authors&lt;/strong&gt;&amp;amp;hl=en&amp;amp;mauthors=**label:computer_vision&lt;/a&gt;**&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://cdn-images-1.medium.com/max/4640/1*FQAb4kNBcskTxM38wLqqLg.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;my-profile&#34;&gt;My Profile&lt;/h2&gt;
 &lt;p&gt;This is the section that you manage your published publications or your personal academic profile. This is super important to your research.&lt;/p&gt;
@@ -105,7 +106,9 @@ To summarize what we have discussed so far on the first post, you can look at th
       <link>/post/intro-to-ml/</link>
       <pubDate>Sun, 16 Aug 2020 13:50:29 -0700</pubDate>
       <guid>/post/intro-to-ml/</guid>
-      <description>&lt;p&gt;This is the overview of basic and important machine learning models, methods and concepts and theories. I acknowledge all information and knowledge including images, data… I have taken from those two courses: &lt;a href=&#34;https://www.coursera.org/learn/machine-learning&#34;&gt;https://www.coursera.org/learn/machine-learning&lt;/a&gt; and &lt;a href=&#34;http://classes.engr.oregonstate.edu/eecs/fall2015/cs534/&#34;&gt;http://classes.engr.oregonstate.edu/eecs/fall2015/cs534/&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;This is the overview of basic and important machine learning models, methods and concepts and theories. I acknowledge all information and knowledge including images, data… I have taken from those two courses: 
+&lt;a href=&#34;https://www.coursera.org/learn/machine-learning&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.coursera.org/learn/machine-learning&lt;/a&gt; and 
+&lt;a href=&#34;http://classes.engr.oregonstate.edu/eecs/fall2015/cs534/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://classes.engr.oregonstate.edu/eecs/fall2015/cs534/&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Our series comprise of following topics:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Section 1: Introduction, Linear regression, Generative and Discriminative Model, Perceptron, Logistic Regression, Naive Bayes and Gaussian Discriminant Analysis&lt;/li&gt;

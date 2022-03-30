@@ -1,143 +1,94 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2021-11-21T18:25:31-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/phd-guidance/</loc>
-    <lastmod>2021-11-21T18:25:31-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2021-11-21T18:25:31-08:00</lastmod>
-  </url>
-  
   <url>
     <loc>/publication-type/1/</loc>
-    <lastmod>2021-11-21T18:13:10-08:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-03-30T08:34:49+07:00</lastmod>
+  </url><url>
+    <loc>/tag/few-shot/</loc>
+    <lastmod>2022-03-30T08:34:49+07:00</lastmod>
+  </url><url>
+    <loc>/publication/incremental-few-shot-instance-segmentation/</loc>
+    <lastmod>2022-03-30T08:34:49+07:00</lastmod>
+  </url><url>
+    <loc>/tag/incremental-learning/</loc>
+    <lastmod>2022-03-30T08:34:49+07:00</lastmod>
+  </url><url>
+    <loc>/tag/instance-segmentation/</loc>
+    <lastmod>2022-03-30T08:34:49+07:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-03-30T08:34:49+07:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2022-03-30T08:34:49+07:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2022-03-30T08:34:49+07:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-03-30T08:34:49+07:00</lastmod>
+  </url><url>
+    <loc>/post/phd-guidance/</loc>
+    <lastmod>2021-11-21T18:25:31-08:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2021-11-21T18:25:31-08:00</lastmod>
+  </url><url>
     <loc>/tag/few-shot-learning/</loc>
     <lastmod>2021-11-21T18:13:10-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/few-shot-classification/</loc>
     <lastmod>2021-11-21T18:13:10-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2021-11-21T18:13:10-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2021-11-21T18:13:10-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2021-11-21T18:13:10-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/amodal-instance-segmentation/</loc>
     <lastmod>2021-11-21T17:59:06-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/amodal-segmentation/</loc>
     <lastmod>2021-11-21T17:59:06-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/instance-segmentation/</loc>
-    <lastmod>2021-11-21T17:59:06-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/few-shot-instance-segmentation/</loc>
     <lastmod>2021-11-21T17:44:56-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/machine-learning/</loc>
     <lastmod>2020-08-16T14:04:21-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/overview-ml/</loc>
     <lastmod>2020-08-16T14:04:21-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/google-scholar/</loc>
     <lastmod>2020-08-16T13:50:29-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/google-scholar/</loc>
     <lastmod>2020-08-16T13:50:29-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/intro-to-ml/</loc>
     <lastmod>2020-08-16T13:50:29-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/unsupervised-few-shot/</loc>
     <lastmod>2020-08-16T12:43:28-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/unsupervised-learning/</loc>
     <lastmod>2020-08-16T12:43:28-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/few-shot-segmentation/</loc>
     <lastmod>2020-08-16T12:07:50-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/segmentation/</loc>
     <lastmod>2020-08-16T12:07:50-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/khoi-nguyen/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/ngo-duc-tuan/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/nguyen-van-thanh/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/pham-hai-chau/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/</loc>
   </url>
-  
 </urlset>

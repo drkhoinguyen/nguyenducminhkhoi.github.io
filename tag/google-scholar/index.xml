@@ -7,7 +7,7 @@
     <description>google scholar</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 16 Aug 2020 13:50:29 -0700</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>google scholar</title>
       <link>/tag/google-scholar/</link>
     </image>
@@ -50,8 +50,8 @@
 &lt;p&gt;You can find the ranking of top venues in specific areas ranked by their h5-index. Notice the link: 
 &lt;a href=&#34;https://scholar.google.com/citations?view_op=top_venues&amp;amp;hl=en&amp;amp;vq=eng_computervisionpatternrecognition&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://scholar.google.com/citations?view_op=&lt;strong&gt;top_venues&lt;/strong&gt;&amp;amp;hl=en&amp;amp;vq=eng_computervisionpatternrecognition&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://cdn-images-1.medium.com/max/4452/1*6ZsfA5BuDcPaTPqIPtaq2g.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;You can also search for &lt;strong&gt;top authors** in specific field by using the link &lt;/strong&gt;search_authors**&amp;amp;hl=en&amp;amp;mauthors=**label:computer_vision
-&lt;a href=&#34;https://scholar.google.com/citations?view_op=search_authors&amp;amp;hl=en&amp;amp;mauthors=label:computer_vision&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://scholar.google.com/citations?view_op=&lt;/a&gt;**&lt;/p&gt;
+&lt;p&gt;You can also search for &lt;strong&gt;top authors&lt;/strong&gt; in specific field by using the link 
+&lt;a href=&#34;https://scholar.google.com/citations?view_op=search_authors&amp;amp;hl=en&amp;amp;mauthors=label:computer_vision&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://scholar.google.com/citations?view_op=&lt;strong&gt;search_authors&lt;/strong&gt;&amp;amp;hl=en&amp;amp;mauthors=**label:computer_vision&lt;/a&gt;**&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://cdn-images-1.medium.com/max/4640/1*FQAb4kNBcskTxM38wLqqLg.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;my-profile&#34;&gt;My Profile&lt;/h2&gt;
 &lt;p&gt;This is the section that you manage your published publications or your personal academic profile. This is super important to your research.&lt;/p&gt;
