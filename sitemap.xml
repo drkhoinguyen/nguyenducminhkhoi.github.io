@@ -44,31 +44,10 @@
     <loc>/post/</loc>
     <lastmod>2021-11-21T18:25:31-08:00</lastmod>
   </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2021-11-21T18:13:10-08:00</lastmod>
-  </url><url>
-    <loc>/author/binh-son-hua/</loc>
-    <lastmod>2021-11-21T18:13:10-08:00</lastmod>
-  </url><url>
-    <loc>/author/duong-h.-le/</loc>
-    <lastmod>2021-11-21T18:13:10-08:00</lastmod>
-  </url><url>
     <loc>/tag/few-shot-learning/</loc>
     <lastmod>2021-11-21T18:13:10-08:00</lastmod>
   </url><url>
-    <loc>/author/khoi-d.-nguyen/</loc>
-    <lastmod>2021-11-21T18:13:10-08:00</lastmod>
-  </url><url>
-    <loc>/author/khoi-nguyen/</loc>
-    <lastmod>2021-11-21T18:13:10-08:00</lastmod>
-  </url><url>
     <loc>/publication/few-shot-classification/</loc>
-    <lastmod>2021-11-21T18:13:10-08:00</lastmod>
-  </url><url>
-    <loc>/author/quoc-huy-tran/</loc>
-    <lastmod>2021-11-21T18:13:10-08:00</lastmod>
-  </url><url>
-    <loc>/author/rang-nguyen/</loc>
     <lastmod>2021-11-21T18:13:10-08:00</lastmod>
   </url><url>
     <loc>/publication/amodal-instance-segmentation/</loc>
@@ -106,6 +85,8 @@
   </url><url>
     <loc>/tag/segmentation/</loc>
     <lastmod>2020-08-16T12:07:50-07:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
   </url><url>
     <loc>/categories/</loc>
   </url><url>
