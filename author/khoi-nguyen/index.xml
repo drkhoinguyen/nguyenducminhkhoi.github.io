@@ -5,12 +5,20 @@
     <link>/author/khoi-nguyen/</link>
       <atom:link href="/author/khoi-nguyen/index.xml" rel="self" type="application/rss+xml" />
     <description>Khoi Nguyen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 21 Nov 2021 18:13:10 -0800</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Khoi Nguyen</title>
       <link>/author/khoi-nguyen/</link>
     </image>
+    
+    <item>
+      <title>POODLE: Improving Few-shot Learning via Penalizing Out-of-Distribution Samples</title>
+      <link>/publication/few-shot-classification/</link>
+      <pubDate>Sun, 21 Nov 2021 18:13:10 -0800</pubDate>
+      <guid>/publication/few-shot-classification/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
