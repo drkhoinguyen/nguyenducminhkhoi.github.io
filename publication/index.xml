@@ -5,12 +5,20 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Oct 2022 10:31:15 +0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Mar 2023 20:27:37 +0700</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>ISBNet: a 3D Point Cloud Instance Segmentation Network with Instance-aware Sampling and Box-aware Dynamic Convolution,</title>
+      <link>/publication/3d-instance-segmentation/</link>
+      <pubDate>Wed, 08 Mar 2023 20:27:37 +0700</pubDate>
+      <guid>/publication/3d-instance-segmentation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>PSENet: Progressive Self-Enhancement Network for Unsupervised Extreme-Light Image Enhancement</title>

@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Khoi Nguyen&#39;s Wesbite</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Oct 2022 10:31:15 +0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Mar 2023 20:27:37 +0700</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Khoi Nguyen&#39;s Wesbite</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>ISBNet: a 3D Point Cloud Instance Segmentation Network with Instance-aware Sampling and Box-aware Dynamic Convolution,</title>
+      <link>/publication/3d-instance-segmentation/</link>
+      <pubDate>Wed, 08 Mar 2023 20:27:37 +0700</pubDate>
+      <guid>/publication/3d-instance-segmentation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>PSENet: Progressive Self-Enhancement Network for Unsupervised Extreme-Light Image Enhancement</title>
@@ -215,9 +223,8 @@ To summarize what we have discussed so far on the first post, you can look at th
 
 
 
+&lt;p&gt;&lt;strong&gt;[03/23]&lt;/strong&gt; One paper accepted to CVPR 2023. Cheers!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[01/23]&lt;/strong&gt; Our paper accepted to WACV 2023 is awarded as the Best Paper - Honorable Mention!&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[10/22]&lt;/strong&gt; Applications to the AI Residency Program Batch 9 at VinAI Research are open, please visit 
-&lt;a href=&#34;https://fb.watch/g3k90xoD_k/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://fb.watch/g3k90xoD_k/&lt;/a&gt; for more information!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[09/22]&lt;/strong&gt; One paper accepted to WACV 2023. Congrats to Hue - the first author, you are deserved!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[08/22]&lt;/strong&gt; Three papers accepted to ECCV 2022. Congrats to all the authors!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[04/22]&lt;/strong&gt; One paper accepted to CVPR 2022. Cheers!&lt;/p&gt;
