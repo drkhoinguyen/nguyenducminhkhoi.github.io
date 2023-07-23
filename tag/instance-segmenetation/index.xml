@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Instance Segmenetation | Khoi Nguyen&#39;s Wesbite</title>
+    <link>/tag/instance-segmenetation/</link>
+      <atom:link href="/tag/instance-segmenetation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Instance Segmenetation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Jul 2022 14:47:35 +0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Instance Segmenetation</title>
+      <link>/tag/instance-segmenetation/</link>
+    </image>
+    
+    <item>
+      <title>Geodesic-Former: a Geodesic-Guided Few-shot 3D Point Cloud Instance Segmenter</title>
+      <link>/publication/few-shot-3d-instance-segmentation/</link>
+      <pubDate>Mon, 25 Jul 2022 14:47:35 +0700</pubDate>
+      <guid>/publication/few-shot-3d-instance-segmentation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,34 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Khoi Nguyen&#39;s Wesbite</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Mar 2023 20:27:37 +0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 23 Jul 2023 11:16:37 +0700</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Khoi Nguyen&#39;s Wesbite</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>GaPro: Box-Supervised 3D Point Cloud Instance Segmentation Using Gaussian Processes as Pseudo Labelers</title>
+      <link>/publication/box-supervised-3d-instance-segmentation/</link>
+      <pubDate>Sun, 23 Jul 2023 11:16:37 +0700</pubDate>
+      <guid>/publication/box-supervised-3d-instance-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ProbML</title>
+      <link>/post/probml/</link>
+      <pubDate>Sun, 23 Jul 2023 10:47:26 +0700</pubDate>
+      <guid>/post/probml/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt;: Welcome to the reading guide for &amp;ldquo;Probabilistic Machine Learning&amp;rdquo; by Kevin Murphy. The first version of this book, published in 2012 (probml.github.io/pml-book/book0.html) gained widespread recognition in the Machine Learning community and was often referred to as the &amp;ldquo;Bible of Machine Learning.&amp;rdquo; The book&amp;rsquo;s popularity stemmed from its comprehensive coverage of a vast array of Machine Learning topics, providing readers with a deep understanding of the subject. Recognizing the rapidly evolving landscape of Machine Learning, Kevin Murphy has taken the initiative to update and expand the knowledge presented in the original book. As a result, he decided to release a new version of the book, dividing it into two separate volumes with a total of more than 2000 pages. The first book serves as a core introduction to the subject, while the second book delves into more advanced topics.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Motivation&lt;/strong&gt;: The knowledge encompassed within these two new books is extensive, making it challenging for beginners to grasp its entirety during their initial reading. As a result, I have taken the initiative to craft this reading guideline. Its purpose is to help filter and select the essential topics from these two books, supplementing them with additional external readings as needed to facilitate a comprehensive understanding. Upon completing these chapters, you will have acquired foundational tools essential for problem-solving in the realms of Machine Learning, Computer Vision, and NLP. This guide will also ensure you do not reinvent the wheel or propose solutions that already exist.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Audience&lt;/strong&gt;: If you&amp;rsquo;re seriously into learning machine learning for your future career, like Ph.D. students, experienced AI/ML practitioners, or researchers, these books are perfect for you. But, if you&amp;rsquo;re an AI engineer looking to learn machine learning, there are other books more suitable for your needs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Disclaimer&lt;/strong&gt;: It&amp;rsquo;s important to note that the selection of specific chapters or sections in this guidance is subjective and reflects the writer&amp;rsquo;s perspective. The chosen topics may or may not align perfectly with everyone&amp;rsquo;s preferences or needs. As such, it is highly recommended to refer back to the original books and read them in their entirety if necessary.&lt;/p&gt;
+&lt;p&gt;Here is the link: 
+&lt;a href=&#34;https://tinyurl.com/ProbML&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tinyurl.com/ProbML&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>ISBNet: a 3D Point Cloud Instance Segmentation Network with Instance-aware Sampling and Box-aware Dynamic Convolution,</title>
@@ -223,6 +245,7 @@ To summarize what we have discussed so far on the first post, you can look at th
 
 
 
+&lt;p&gt;&lt;strong&gt;[07/23]&lt;/strong&gt; One paper accepted to ICCV 2023. Congrats to the first author Tuan Ngo for his third paper!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[03/23]&lt;/strong&gt; One paper accepted to CVPR 2023. Cheers!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[01/23]&lt;/strong&gt; Our paper accepted to WACV 2023 is awarded as the Best Paper - Honorable Mention!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[09/22]&lt;/strong&gt; One paper accepted to WACV 2023. Congrats to Hue - the first author, you are deserved!&lt;/p&gt;

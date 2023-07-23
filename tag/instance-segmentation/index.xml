@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>instance segmentation | Khoi Nguyen&#39;s Wesbite</title>
+    <title>Instance Segmentation | Khoi Nguyen&#39;s Wesbite</title>
     <link>/tag/instance-segmentation/</link>
       <atom:link href="/tag/instance-segmentation/index.xml" rel="self" type="application/rss+xml" />
-    <description>instance segmentation</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Mar 2023 20:27:37 +0700</lastBuildDate>
+    <description>Instance Segmentation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 23 Jul 2023 11:16:37 +0700</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>instance segmentation</title>
+      <title>Instance Segmentation</title>
       <link>/tag/instance-segmentation/</link>
     </image>
+    
+    <item>
+      <title>GaPro: Box-Supervised 3D Point Cloud Instance Segmentation Using Gaussian Processes as Pseudo Labelers</title>
+      <link>/publication/box-supervised-3d-instance-segmentation/</link>
+      <pubDate>Sun, 23 Jul 2023 11:16:37 +0700</pubDate>
+      <guid>/publication/box-supervised-3d-instance-segmentation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ISBNet: a 3D Point Cloud Instance Segmentation Network with Instance-aware Sampling and Box-aware Dynamic Convolution,</title>
