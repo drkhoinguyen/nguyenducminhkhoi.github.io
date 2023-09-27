@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Semantic Segmentation | Khoi Nguyen&#39;s Wesbite</title>
-    <link>/tag/semantic-segmentation/</link>
-      <atom:link href="/tag/semantic-segmentation/index.xml" rel="self" type="application/rss+xml" />
-    <description>Semantic Segmentation</description>
+    <title>Synthetic Dataset | Khoi Nguyen&#39;s Wesbite</title>
+    <link>/tag/synthetic-dataset/</link>
+      <atom:link href="/tag/synthetic-dataset/index.xml" rel="self" type="application/rss+xml" />
+    <description>Synthetic Dataset</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Sep 2023 10:20:49 +0700</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Semantic Segmentation</title>
-      <link>/tag/semantic-segmentation/</link>
+      <title>Synthetic Dataset</title>
+      <link>/tag/synthetic-dataset/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/dataset-diffusion/</link>
       <pubDate>Wed, 27 Sep 2023 10:20:49 +0700</pubDate>
       <guid>/publication/dataset-diffusion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Feature Weighting and Boosting for Few-Shot Segmentation</title>
-      <link>/publication/few-shot-segmentation/</link>
-      <pubDate>Sun, 16 Aug 2020 12:07:50 -0700</pubDate>
-      <guid>/publication/few-shot-segmentation/</guid>
       <description></description>
     </item>
     
