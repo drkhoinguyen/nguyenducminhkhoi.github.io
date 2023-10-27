@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Khoi Nguyen&#39;s Wesbite</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Sep 2023 10:20:49 +0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Oct 2023 10:20:40 +0700</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Khoi Nguyen&#39;s Wesbite</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>LP-OVOD: Open-Vocabulary Object Detection by Linear Probing</title>
+      <link>/publication/open-vocab-object-detection/</link>
+      <pubDate>Fri, 27 Oct 2023 10:20:40 +0700</pubDate>
+      <guid>/publication/open-vocab-object-detection/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dataset Diffusion: Diffusion-based Synthetic Dataset Generation for Pixel-Level Semantic Segmentation</title>
@@ -253,6 +261,7 @@ To summarize what we have discussed so far on the first post, you can look at th
 
 
 
+&lt;p&gt;&lt;strong&gt;[10/23]&lt;/strong&gt; One paper accepted to WACV 2024 in Open-vocab Object Detection. Congrats to the first authors Chau Pham and Truong Vu for their first paper!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[09/23]&lt;/strong&gt; One paper accepted to NeurIPS 2023. Congrats to the first authors Quang Nguyen and Truong Vu for their first paper!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[07/23]&lt;/strong&gt; One paper accepted to ICCV 2023. Congrats to the first author Tuan Ngo for his third paper!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[03/23]&lt;/strong&gt; One paper accepted to CVPR 2023. Cheers!&lt;/p&gt;

@@ -3,7 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/publication-type/1/</loc>
-    <lastmod>2023-09-27T10:20:49+07:00</lastmod>
+    <lastmod>2023-10-27T10:20:40+07:00</lastmod>
+  </url><url>
+    <loc>/tag/instance-segmentation/</loc>
+    <lastmod>2023-10-27T10:20:40+07:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-10-27T10:20:40+07:00</lastmod>
+  </url><url>
+    <loc>/publication/open-vocab-object-detection/</loc>
+    <lastmod>2023-10-27T10:20:40+07:00</lastmod>
+  </url><url>
+    <loc>/tag/object-detection/</loc>
+    <lastmod>2023-10-27T10:20:40+07:00</lastmod>
+  </url><url>
+    <loc>/tag/open-vocab-learning/</loc>
+    <lastmod>2023-10-27T10:20:40+07:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2023-10-27T10:20:40+07:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2023-10-27T10:20:40+07:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-10-27T10:20:40+07:00</lastmod>
   </url><url>
     <loc>/publication/dataset-diffusion/</loc>
     <lastmod>2023-09-27T10:20:49+07:00</lastmod>
@@ -11,22 +35,10 @@
     <loc>/tag/diffusion-models/</loc>
     <lastmod>2023-09-27T10:20:49+07:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2023-09-27T10:20:49+07:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2023-09-27T10:20:49+07:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2023-09-27T10:20:49+07:00</lastmod>
-  </url><url>
     <loc>/tag/semantic-segmentation/</loc>
     <lastmod>2023-09-27T10:20:49+07:00</lastmod>
   </url><url>
     <loc>/tag/synthetic-dataset/</loc>
-    <lastmod>2023-09-27T10:20:49+07:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2023-09-27T10:20:49+07:00</lastmod>
   </url><url>
     <loc>/publication-type/0/</loc>
@@ -36,9 +48,6 @@
     <lastmod>2023-07-23T11:16:37+07:00</lastmod>
   </url><url>
     <loc>/publication/box-supervised-3d-instance-segmentation/</loc>
-    <lastmod>2023-07-23T11:16:37+07:00</lastmod>
-  </url><url>
-    <loc>/tag/instance-segmentation/</loc>
     <lastmod>2023-07-23T11:16:37+07:00</lastmod>
   </url><url>
     <loc>/tag/weakly-supervised/</loc>
@@ -72,9 +81,6 @@
     <lastmod>2022-07-25T15:03:43+07:00</lastmod>
   </url><url>
     <loc>/publication/few-shot-counting-detection/</loc>
-    <lastmod>2022-07-25T15:03:43+07:00</lastmod>
-  </url><url>
-    <loc>/tag/object-detection/</loc>
     <lastmod>2022-07-25T15:03:43+07:00</lastmod>
   </url><url>
     <loc>/publication/few-shot-3d-instance-segmentation/</loc>
