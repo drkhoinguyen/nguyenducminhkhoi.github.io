@@ -5,12 +5,36 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Oct 2023 10:20:40 +0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 23 Dec 2023 09:55:31 +0700</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>DiverseDream: Diverse Text-to-3D Synthesis with Augmented Text Embedding</title>
+      <link>/publication/text-to-3d/</link>
+      <pubDate>Sat, 23 Dec 2023 09:55:31 +0700</pubDate>
+      <guid>/publication/text-to-3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open3DIS: Open-vocabulary 3D Instance Segmentation with 2D Mask Guidance</title>
+      <link>/publication/open-vocab-3d-instance-segmentation/</link>
+      <pubDate>Sat, 23 Dec 2023 09:50:43 +0700</pubDate>
+      <guid>/publication/open-vocab-3d-instance-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stable Messenger: Steganography for Message-Concealed Image Generation</title>
+      <link>/publication/steganography/</link>
+      <pubDate>Sat, 23 Dec 2023 09:43:55 +0700</pubDate>
+      <guid>/publication/steganography/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>LP-OVOD: Open-Vocabulary Object Detection by Linear Probing</title>
