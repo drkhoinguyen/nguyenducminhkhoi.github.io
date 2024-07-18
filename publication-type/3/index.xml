@@ -5,7 +5,7 @@
     <link>/publication-type/3/</link>
       <atom:link href="/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 23 Dec 2023 09:55:31 +0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Jul 2024 11:57:11 +0700</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>DiverseDream: Diverse Text-to-3D Synthesis with Augmented Text Embedding</title>
+      <title>Make Your One-step Diffusion Model Better Than Its Teacher</title>
+      <link>/publication/one-step-text-to-image/</link>
+      <pubDate>Thu, 18 Jul 2024 11:57:11 +0700</pubDate>
+      <guid>/publication/one-step-text-to-image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diverse Text-to-3D Synthesis with Augmented Text Embedding</title>
       <link>/publication/text-to-3d/</link>
       <pubDate>Sat, 23 Dec 2023 09:55:31 +0700</pubDate>
       <guid>/publication/text-to-3d/</guid>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>machine learning | Khoi Nguyen&#39;s Wesbite</title>
+    <title>Machine Learning | Khoi Nguyen&#39;s Wesbite</title>
     <link>/tag/machine-learning/</link>
       <atom:link href="/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
-    <description>machine learning</description>
+    <description>Machine Learning</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 16 Aug 2020 14:04:21 -0700</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>machine learning</title>
+      <title>Machine Learning</title>
       <link>/tag/machine-learning/</link>
     </image>
     
@@ -25,8 +25,8 @@
 &lt;p&gt;The second type of problems in Machine Learning is Unsupervised Learning. In that case, the data is just input and you do not know the output. Normally, we have several problems like Clustering, Dimension Reduction or Structure Learning. And the third type of problems in Machine Learning is between the supervised learning and unsupervised learning. We can have 3 sub-divisions: weakly supervised learning, semi-supervised and reinforcement learning. With weakly supervised learning, the label is not exactly the final output we want but correlated to the final output. For example, in the weakly supervised object localization problem, the final output we want is the object bounding box in the image, but the cost of obtaining these label is very expensive, so instead, we have the label of object in the image like a cat or a dog. As a human, if we know the what kind of object we can easily know the position of that object in the image.&lt;/p&gt;
 &lt;p&gt;With semi-supervised learning, we do not have the output of all inputs. The input having corresponding output is just a small number comparing to the inputs that we do not have output because of the cost of obtaining full outputs for all inputs is expensive. Finally, with reinforcement learning we do not have the exact output as well as the highly correlated label. Instead, we just have the signal of doing following action is good or not such as the problem of object localization without the notion of ground-truth bounding box or object label. Here, we just have the signal of recognized correct object in the image. If the bounding box is correct then the score of recognizing object will be higher than incorrect bounding box. That gives us a signal or a hint of finding correct bounding box. Therefore, depending on what types of data you have, you will choose the appropriate machine learning algorithms.
 To summarize what we have discussed so far on the first post, you can look at the following diagrams:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;overview.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;classify.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/overview-ml/overview.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/overview-ml/classify.jpeg&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     

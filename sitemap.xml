@@ -3,24 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/publication-type/3/</loc>
-    <lastmod>2023-12-23T09:55:31+07:00</lastmod>
+    <lastmod>2024-07-18T11:57:11+07:00</lastmod>
   </url><url>
     <loc>/tag/diffusion-models/</loc>
-    <lastmod>2023-12-23T09:55:31+07:00</lastmod>
-  </url><url>
-    <loc>/publication/text-to-3d/</loc>
-    <lastmod>2023-12-23T09:55:31+07:00</lastmod>
+    <lastmod>2024-07-18T11:57:11+07:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2023-12-23T09:55:31+07:00</lastmod>
+    <lastmod>2024-07-18T11:57:11+07:00</lastmod>
+  </url><url>
+    <loc>/publication/one-step-text-to-image/</loc>
+    <lastmod>2024-07-18T11:57:11+07:00</lastmod>
+  </url><url>
+    <loc>/tag/one-step/</loc>
+    <lastmod>2024-07-18T11:57:11+07:00</lastmod>
   </url><url>
     <loc>/publication_types/</loc>
-    <lastmod>2023-12-23T09:55:31+07:00</lastmod>
+    <lastmod>2024-07-18T11:57:11+07:00</lastmod>
   </url><url>
     <loc>/publication/</loc>
-    <lastmod>2023-12-23T09:55:31+07:00</lastmod>
+    <lastmod>2024-07-18T11:57:11+07:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
+    <lastmod>2024-07-18T11:57:11+07:00</lastmod>
+  </url><url>
+    <loc>/tag/text-to-image/</loc>
+    <lastmod>2024-07-18T11:57:11+07:00</lastmod>
+  </url><url>
+    <loc>/publication/text-to-3d/</loc>
     <lastmod>2023-12-23T09:55:31+07:00</lastmod>
   </url><url>
     <loc>/tag/text-to-3d/</loc>
@@ -158,6 +167,8 @@
     <loc>/authors/</loc>
   </url><url>
     <loc>/categories/</loc>
+  </url><url>
+    <loc>/author/khoi-nguyen/</loc>
   </url><url>
     <loc>/author/khoi-nguyen/</loc>
   </url><url>
