@@ -5,12 +5,23 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 23 Jul 2023 10:47:26 +0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Dec 2024 11:42:55 +0700</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Selected Computer Vision Tutorials</title>
+      <link>/post/cv-tutorials/</link>
+      <pubDate>Wed, 11 Dec 2024 11:42:55 +0700</pubDate>
+      <guid>/post/cv-tutorials/</guid>
+      <description>&lt;p&gt;Computer Vision is a diverse research domain encompassing various topics. This guide compiles essential and up-to-date tutorials, carefully selected from those presented at top-tier conferences in the field, including CVPR, ICCV, ECCV, and SIGGRAPH.&lt;/p&gt;
+&lt;p&gt;Here is the link: 
+&lt;a href=&#34;https://docs.google.com/document/d/14Meh3cSkDRtVlT2Pcj3TmpQz0TOriGdT_r29mUJa-Sc/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://docs.google.com/document/d/14Meh3cSkDRtVlT2Pcj3TmpQz0TOriGdT_r29mUJa-Sc/edit?usp=sharing&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>ProbML</title>
