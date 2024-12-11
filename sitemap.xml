@@ -3,27 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/publication-type/3/</loc>
-    <lastmod>2024-07-18T11:57:11+07:00</lastmod>
+    <lastmod>2024-12-11T10:54:17+07:00</lastmod>
   </url><url>
-    <loc>/tag/diffusion-models/</loc>
-    <lastmod>2024-07-18T11:57:11+07:00</lastmod>
+    <loc>/tag/3d-semantic-segmentation/</loc>
+    <lastmod>2024-12-11T10:54:17+07:00</lastmod>
+  </url><url>
+    <loc>/tag/depth/</loc>
+    <lastmod>2024-12-11T10:54:17+07:00</lastmod>
   </url><url>
     <loc>/</loc>
+    <lastmod>2024-12-11T10:54:17+07:00</lastmod>
+  </url><url>
+    <loc>/tag/monocular-video/</loc>
+    <lastmod>2024-12-11T10:54:17+07:00</lastmod>
+  </url><url>
+    <loc>/tag/occupancy/</loc>
+    <lastmod>2024-12-11T10:54:17+07:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2024-12-11T10:54:17+07:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2024-12-11T10:54:17+07:00</lastmod>
+  </url><url>
+    <loc>/publication/3d-semantic-occupancy/</loc>
+    <lastmod>2024-12-11T10:54:17+07:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-12-11T10:54:17+07:00</lastmod>
+  </url><url>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2024-12-11T10:43:57+07:00</lastmod>
+  </url><url>
+    <loc>/tag/diffusion/</loc>
+    <lastmod>2024-12-11T10:43:57+07:00</lastmod>
+  </url><url>
+    <loc>/publication/video-try-on/</loc>
+    <lastmod>2024-12-11T10:43:57+07:00</lastmod>
+  </url><url>
+    <loc>/tag/try-on/</loc>
+    <lastmod>2024-12-11T10:43:57+07:00</lastmod>
+  </url><url>
+    <loc>/tag/video-generation/</loc>
+    <lastmod>2024-12-11T10:43:57+07:00</lastmod>
+  </url><url>
+    <loc>/tag/diffusion-models/</loc>
     <lastmod>2024-07-18T11:57:11+07:00</lastmod>
   </url><url>
     <loc>/tag/one-step/</loc>
     <lastmod>2024-07-18T11:57:11+07:00</lastmod>
   </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2024-07-18T11:57:11+07:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2024-07-18T11:57:11+07:00</lastmod>
-  </url><url>
     <loc>/publication/one-step-text-to-image/</loc>
-    <lastmod>2024-07-18T11:57:11+07:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2024-07-18T11:57:11+07:00</lastmod>
   </url><url>
     <loc>/tag/text-to-image/</loc>
@@ -52,9 +82,6 @@
   </url><url>
     <loc>/tag/trustworthy-ai/</loc>
     <lastmod>2023-12-23T09:43:55+07:00</lastmod>
-  </url><url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2023-10-27T10:20:40+07:00</lastmod>
   </url><url>
     <loc>/publication/open-vocab-object-detection/</loc>
     <lastmod>2023-10-27T10:20:40+07:00</lastmod>
