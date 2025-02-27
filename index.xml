@@ -5,12 +5,36 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Khoi Nguyen&#39;s Wesbite</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Dec 2024 11:42:55 +0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 27 Feb 2025 16:48:52 +0700</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Khoi Nguyen&#39;s Wesbite</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>SwiftEdit: Lightning Fast Text-Guided Image Editing via One-Step Diffusion</title>
+      <link>/publication/one-step-image-editing/</link>
+      <pubDate>Thu, 27 Feb 2025 16:48:52 +0700</pubDate>
+      <guid>/publication/one-step-image-editing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Any3DIS: Class-Agnostic 3D Instance Segmentation by 2D Mask Tracking</title>
+      <link>/publication/class-agnostic-3d-instance-segmentation/</link>
+      <pubDate>Thu, 27 Feb 2025 16:40:25 +0700</pubDate>
+      <guid>/publication/class-agnostic-3d-instance-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SharpDepth: Sharpening Metric Depth Predictions Using Diffusion Distillation</title>
+      <link>/publication/sharp-depth/</link>
+      <pubDate>Thu, 27 Feb 2025 16:35:19 +0700</pubDate>
+      <guid>/publication/sharp-depth/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Selected Computer Vision Tutorials</title>
@@ -320,6 +344,7 @@ To summarize what we have discussed so far on the first post, you can look at th
 
 
 
+&lt;p&gt;&lt;strong&gt;[02/25]&lt;/strong&gt; Three papers accepted to CVPR 2025: Any3DIS, SwiftEdit, SharpDepth. Cheers!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[12/24]&lt;/strong&gt; Two papers on 3D Scene Completition and Video Virtual Try-on are accepted to AAAI 2025. Congrats to all authors!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[07/24]&lt;/strong&gt; Two papers (DiverseDream and SwiftBrushv2) accepted to ECCV 2024. Cheers!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[02/24]&lt;/strong&gt; Our Open3DIS is accepted to CVPR 2024. Cheers!&lt;/p&gt;

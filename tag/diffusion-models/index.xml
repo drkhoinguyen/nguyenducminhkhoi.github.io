@@ -5,12 +5,28 @@
     <link>/tag/diffusion-models/</link>
       <atom:link href="/tag/diffusion-models/index.xml" rel="self" type="application/rss+xml" />
     <description>Diffusion Models</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Jul 2024 11:57:11 +0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 27 Feb 2025 16:48:52 +0700</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Diffusion Models</title>
       <link>/tag/diffusion-models/</link>
     </image>
+    
+    <item>
+      <title>SwiftEdit: Lightning Fast Text-Guided Image Editing via One-Step Diffusion</title>
+      <link>/publication/one-step-image-editing/</link>
+      <pubDate>Thu, 27 Feb 2025 16:48:52 +0700</pubDate>
+      <guid>/publication/one-step-image-editing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SharpDepth: Sharpening Metric Depth Predictions Using Diffusion Distillation</title>
+      <link>/publication/sharp-depth/</link>
+      <pubDate>Thu, 27 Feb 2025 16:35:19 +0700</pubDate>
+      <guid>/publication/sharp-depth/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SwiftBrush V2: Make Your One-step Diffusion Model Better Than Its Teacher</title>

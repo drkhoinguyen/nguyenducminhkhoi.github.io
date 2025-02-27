@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Editing | Khoi Nguyen&#39;s Wesbite</title>
+    <link>/tag/editing/</link>
+      <atom:link href="/tag/editing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Editing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 27 Feb 2025 16:48:52 +0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Editing</title>
+      <link>/tag/editing/</link>
+    </image>
+    
+    <item>
+      <title>SwiftEdit: Lightning Fast Text-Guided Image Editing via One-Step Diffusion</title>
+      <link>/publication/one-step-image-editing/</link>
+      <pubDate>Thu, 27 Feb 2025 16:48:52 +0700</pubDate>
+      <guid>/publication/one-step-image-editing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

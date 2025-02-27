@@ -5,12 +5,20 @@
     <link>/tag/3d-point-cloud/</link>
       <atom:link href="/tag/3d-point-cloud/index.xml" rel="self" type="application/rss+xml" />
     <description>3D Point Cloud</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 23 Dec 2023 09:50:43 +0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 27 Feb 2025 16:40:25 +0700</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>3D Point Cloud</title>
       <link>/tag/3d-point-cloud/</link>
     </image>
+    
+    <item>
+      <title>Any3DIS: Class-Agnostic 3D Instance Segmentation by 2D Mask Tracking</title>
+      <link>/publication/class-agnostic-3d-instance-segmentation/</link>
+      <pubDate>Thu, 27 Feb 2025 16:40:25 +0700</pubDate>
+      <guid>/publication/class-agnostic-3d-instance-segmentation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Open3DIS: Open-vocabulary 3D Instance Segmentation with 2D Mask Guidance</title>
