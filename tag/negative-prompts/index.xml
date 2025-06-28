@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Negative-Prompts | Khoi Nguyen&#39;s Wesbite</title>
+    <link>/tag/negative-prompts/</link>
+      <atom:link href="/tag/negative-prompts/index.xml" rel="self" type="application/rss+xml" />
+    <description>Negative-Prompts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 28 Jun 2025 11:21:40 +0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Negative-Prompts</title>
+      <link>/tag/negative-prompts/</link>
+    </image>
+    
+    <item>
+      <title>Supercharged One-step Text-to-Image Diffusion Models with Negative Prompts</title>
+      <link>/publication/one-step-negative-prompt-image-generation/</link>
+      <pubDate>Sat, 28 Jun 2025 11:21:40 +0700</pubDate>
+      <guid>/publication/one-step-negative-prompt-image-generation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

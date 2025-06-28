@@ -5,12 +5,28 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 27 Feb 2025 16:48:52 +0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 28 Jun 2025 11:21:40 +0700</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Supercharged One-step Text-to-Image Diffusion Models with Negative Prompts</title>
+      <link>/publication/one-step-negative-prompt-image-generation/</link>
+      <pubDate>Sat, 28 Jun 2025 11:21:40 +0700</pubDate>
+      <guid>/publication/one-step-negative-prompt-image-generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSD-VAR: Content-Style Decomposition in Visual Autoregressive Models</title>
+      <link>/publication/content-style-decomposition/</link>
+      <pubDate>Sat, 28 Jun 2025 11:10:48 +0700</pubDate>
+      <guid>/publication/content-style-decomposition/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SwiftEdit: Lightning Fast Text-Guided Image Editing via One-Step Diffusion</title>
