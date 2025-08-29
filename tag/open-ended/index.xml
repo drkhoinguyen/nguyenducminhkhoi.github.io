@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>0 | Khoi Nguyen&#39;s Wesbite</title>
-    <link>/publication-type/0/</link>
-      <atom:link href="/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
-    <description>0</description>
+    <title>Open-Ended | Khoi Nguyen&#39;s Wesbite</title>
+    <link>/tag/open-ended/</link>
+      <atom:link href="/tag/open-ended/index.xml" rel="self" type="application/rss+xml" />
+    <description>Open-Ended</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Aug 2025 09:54:41 +0700</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>0</title>
-      <link>/publication-type/0/</link>
+      <title>Open-Ended</title>
+      <link>/tag/open-ended/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/open-ended-3d-instance-segmentation/</link>
       <pubDate>Fri, 29 Aug 2025 09:54:41 +0700</pubDate>
       <guid>/publication/open-ended-3d-instance-segmentation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GaPro: Box-Supervised 3D Point Cloud Instance Segmentation Using Gaussian Processes as Pseudo Labelers</title>
-      <link>/publication/box-supervised-3d-instance-segmentation/</link>
-      <pubDate>Sun, 23 Jul 2023 11:16:37 +0700</pubDate>
-      <guid>/publication/box-supervised-3d-instance-segmentation/</guid>
       <description></description>
     </item>
     

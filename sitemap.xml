@@ -2,13 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/publication-type/0/</loc>
+    <lastmod>2025-08-29T09:54:41+07:00</lastmod>
+  </url><url>
+    <loc>/tag/3d-point-cloud/</loc>
+    <lastmod>2025-08-29T09:54:41+07:00</lastmod>
+  </url><url>
+    <loc>/tag/instance-segmentation/</loc>
+    <lastmod>2025-08-29T09:54:41+07:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2025-08-29T09:54:41+07:00</lastmod>
+  </url><url>
+    <loc>/publication/open-ended-3d-instance-segmentation/</loc>
+    <lastmod>2025-08-29T09:54:41+07:00</lastmod>
+  </url><url>
+    <loc>/tag/open-ended/</loc>
+    <lastmod>2025-08-29T09:54:41+07:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2025-08-29T09:54:41+07:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2025-08-29T09:54:41+07:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2025-08-29T09:54:41+07:00</lastmod>
+  </url><url>
     <loc>/publication-type/1/</loc>
     <lastmod>2025-06-28T11:21:40+07:00</lastmod>
   </url><url>
     <loc>/tag/diffusion-models/</loc>
-    <lastmod>2025-06-28T11:21:40+07:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2025-06-28T11:21:40+07:00</lastmod>
   </url><url>
     <loc>/tag/negative-prompts/</loc>
@@ -17,16 +41,7 @@
     <loc>/tag/one-step/</loc>
     <lastmod>2025-06-28T11:21:40+07:00</lastmod>
   </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2025-06-28T11:21:40+07:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2025-06-28T11:21:40+07:00</lastmod>
-  </url><url>
     <loc>/publication/one-step-negative-prompt-image-generation/</loc>
-    <lastmod>2025-06-28T11:21:40+07:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2025-06-28T11:21:40+07:00</lastmod>
   </url><url>
     <loc>/tag/text-to-image/</loc>
@@ -47,16 +62,10 @@
     <loc>/publication/one-step-image-editing/</loc>
     <lastmod>2025-02-27T16:48:52+07:00</lastmod>
   </url><url>
-    <loc>/tag/3d-point-cloud/</loc>
-    <lastmod>2025-02-27T16:40:25+07:00</lastmod>
-  </url><url>
     <loc>/publication/class-agnostic-3d-instance-segmentation/</loc>
     <lastmod>2025-02-27T16:40:25+07:00</lastmod>
   </url><url>
     <loc>/tag/class-agnostic/</loc>
-    <lastmod>2025-02-27T16:40:25+07:00</lastmod>
-  </url><url>
-    <loc>/tag/instance-segmentation/</loc>
     <lastmod>2025-02-27T16:40:25+07:00</lastmod>
   </url><url>
     <loc>/tag/depth-estimation/</loc>
@@ -136,9 +145,6 @@
   </url><url>
     <loc>/tag/synthetic-dataset/</loc>
     <lastmod>2023-09-27T10:20:49+07:00</lastmod>
-  </url><url>
-    <loc>/publication-type/0/</loc>
-    <lastmod>2023-07-23T11:16:37+07:00</lastmod>
   </url><url>
     <loc>/publication/box-supervised-3d-instance-segmentation/</loc>
     <lastmod>2023-07-23T11:16:37+07:00</lastmod>
