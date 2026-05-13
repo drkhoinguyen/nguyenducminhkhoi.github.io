@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Subject-Driven | Khoi Nguyen&#39;s Wesbite</title>
+    <link>/tag/subject-driven/</link>
+      <atom:link href="/tag/subject-driven/index.xml" rel="self" type="application/rss+xml" />
+    <description>Subject-Driven</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 May 2026 11:36:27 +0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hu_df3909c53f6eee5b.png</url>
+      <title>Subject-Driven</title>
+      <link>/tag/subject-driven/</link>
+    </image>
+    
+    <item>
+      <title>SwiftPie: Lightning-fast Subject-driven Image Personalization via One step Diffusion</title>
+      <link>/publication/one-step-image-personalization/</link>
+      <pubDate>Wed, 13 May 2026 11:36:27 +0700</pubDate>
+      <guid>/publication/one-step-image-personalization/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

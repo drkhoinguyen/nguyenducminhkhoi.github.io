@@ -2,6 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2026-05-13T11:36:27+07:00</lastmod>
+  </url><url>
+    <loc>/tag/diffusion-models/</loc>
+    <lastmod>2026-05-13T11:36:27+07:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2026-05-13T11:36:27+07:00</lastmod>
+  </url><url>
+    <loc>/tag/ne-step/</loc>
+    <lastmod>2026-05-13T11:36:27+07:00</lastmod>
+  </url><url>
+    <loc>/tag/personalization/</loc>
+    <lastmod>2026-05-13T11:36:27+07:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2026-05-13T11:36:27+07:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2026-05-13T11:36:27+07:00</lastmod>
+  </url><url>
+    <loc>/tag/subject-driven/</loc>
+    <lastmod>2026-05-13T11:36:27+07:00</lastmod>
+  </url><url>
+    <loc>/publication/one-step-image-personalization/</loc>
+    <lastmod>2026-05-13T11:36:27+07:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2026-05-13T11:36:27+07:00</lastmod>
+  </url><url>
+    <loc>/tag/editing/</loc>
+    <lastmod>2026-05-13T11:24:28+07:00</lastmod>
+  </url><url>
+    <loc>/tag/inpainting/</loc>
+    <lastmod>2026-05-13T11:24:28+07:00</lastmod>
+  </url><url>
+    <loc>/publication/one-step-image-inpainting/</loc>
+    <lastmod>2026-05-13T11:24:28+07:00</lastmod>
+  </url><url>
+    <loc>/tag/one-step/</loc>
+    <lastmod>2026-05-13T11:24:28+07:00</lastmod>
+  </url><url>
     <loc>/publication-type/0/</loc>
     <lastmod>2025-08-29T09:54:41+07:00</lastmod>
   </url><url>
@@ -11,34 +53,13 @@
     <loc>/tag/instance-segmentation/</loc>
     <lastmod>2025-08-29T09:54:41+07:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2025-08-29T09:54:41+07:00</lastmod>
-  </url><url>
     <loc>/publication/open-ended-3d-instance-segmentation/</loc>
     <lastmod>2025-08-29T09:54:41+07:00</lastmod>
   </url><url>
     <loc>/tag/open-ended/</loc>
     <lastmod>2025-08-29T09:54:41+07:00</lastmod>
   </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2025-08-29T09:54:41+07:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2025-08-29T09:54:41+07:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2025-08-29T09:54:41+07:00</lastmod>
-  </url><url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2025-06-28T11:21:40+07:00</lastmod>
-  </url><url>
-    <loc>/tag/diffusion-models/</loc>
-    <lastmod>2025-06-28T11:21:40+07:00</lastmod>
-  </url><url>
     <loc>/tag/negative-prompts/</loc>
-    <lastmod>2025-06-28T11:21:40+07:00</lastmod>
-  </url><url>
-    <loc>/tag/one-step/</loc>
     <lastmod>2025-06-28T11:21:40+07:00</lastmod>
   </url><url>
     <loc>/publication/one-step-negative-prompt-image-generation/</loc>
@@ -55,9 +76,6 @@
   </url><url>
     <loc>/tag/text-to-image-next-scale/</loc>
     <lastmod>2025-06-28T11:10:48+07:00</lastmod>
-  </url><url>
-    <loc>/tag/editing/</loc>
-    <lastmod>2025-02-27T16:48:52+07:00</lastmod>
   </url><url>
     <loc>/publication/one-step-image-editing/</loc>
     <lastmod>2025-02-27T16:48:52+07:00</lastmod>
